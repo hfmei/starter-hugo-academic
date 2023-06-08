@@ -5,7 +5,7 @@ title: 'DE-CrossDet: Divisible and Extensible Crossline Representation for Objec
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
+  - Hefei Mei
   - Hongliang Li
   - Heqian Qiu
   - Jianhua Cui
@@ -16,11 +16,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2022-08-16T00:00:00Z'
+doi: '10.1109/VCIP56404.2022.10008820'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-01-16T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,10 +32,10 @@ publication_types: ['1']
 publication: In *IEEE International Conference on Visual Communications and Image Processing*
 publication_short: In *VCIP 2022*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Object detection aims to localize and classify objects. Suitable object representation plays an important role in accurate detection. Because a complete crossline inevitably passes through the noise of backgrounds or other objects, object features directly extracted by the whole crossline are often confused. In this paper, we present a new feature extraction method, DE-Crossline, which can enhance the original crossline representation to capture more accurate object information. Specifically, we divide the crossline into several segments, each of which extracts the maximum activation key point respectively to reduce the impact of noise mentioned above. Furthermore, considering various shapes and sizes of objects, we design a Deformable Width Extension Module to learn a suitable width of each crossline, so as to capture richer object information. Extensive experiments prove the effectiveness of our proposed method. The total performance of our proposed detector can reach 49.0% AP, using ResNet-101 as backbone on the MS-COCO dataset.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -59,7 +59,7 @@ url_video: 'https://youtube.com'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ''
   preview_only: false
 
