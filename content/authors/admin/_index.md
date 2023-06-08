@@ -50,7 +50,7 @@ social:
     link: '/#contact'
   - icon: weixin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://hfmei.netlify.app/media/albums/wechat.jpg
     label: Contact me with WeChat
     display:
       header: true
