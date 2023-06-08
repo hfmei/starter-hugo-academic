@@ -80,5 +80,7 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hefei Mei received the B.E. degree in electronics information engineering from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2021, where he is currently pursuing the M.E. degree in information and communication engineering, under the supervision of Prof. Li.
+
+His main research interests include computer vision, deep learning and object detection.
 {style="text-align: justify;"}
