@@ -50,7 +50,7 @@ social:
     link: '/#contact'
   - icon: weixin
     icon_pack: fab
-    link: ./media/albums/wechat.jpg
+    link: ./media/albums/demo/wechat.jpg
     label: Contact me with WeChat
     display:
       header: true
