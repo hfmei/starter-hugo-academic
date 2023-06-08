@@ -33,15 +33,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng in Information and Communication Engineering
+      institution: University of Electronic Science and Technology of China
+      year: 2021
+    - course: BSc in Electronic and Information Engineering
+      institution: University of Electronic Science and Technology of China
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -80,7 +77,7 @@ email: ''
 highlight_name: true
 ---
 
-Hefei Mei received the B.E. degree in electronics information engineering from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2021, where he is currently pursuing the M.E. degree in information and communication engineering, under the supervision of Prof. Li.
+Hefei Mei received the B.E. degree in electronic and information engineering from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2021, where he is currently pursuing the M.E. degree in information and communication engineering, under the supervision of Prof. Li.
 
 His main research interests include computer vision, deep learning and object detection.
 {style="text-align: justify;"}
