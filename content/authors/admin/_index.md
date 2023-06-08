@@ -79,5 +79,5 @@ highlight_name: true
 
 Hefei Mei received the B.E. degree in electronic and information engineering from the University of Electronic Science and Technology of China (UESTC), Chengdu, China, in 2021, where he is currently pursuing the M.E. degree in information and communication engineering, under the supervision of Prof. Li.
 
-His main research interests include computer vision, deep learning and object detection.
+He is in Intelligent Vision Information Processing (IVIP) laboratory. His main research interests include computer vision, deep learning and object detection.
 {style="text-align: justify;"}
